@@ -32,8 +32,8 @@ For example, if I enter the education 10 * (2 + 5) * 10 it should return 700.
 The only operations available will be + - * /.
 You can assume that you will always have a well-formed equation with at least 1 term.
 
-![ok](https://github.com/vchacin/Calculator-API/tree/main/src/Ok.png)
+![ok](https://github.com/vchacin/Calculator-API/blob/main/src/Ok.png)
 
 The only term separator will be the (). We WON'T use § or [ as term division.
 
-![error](https://github.com/vchacin/Calculator-API/tree/main/src/Error.png)
+![error](https://github.com/vchacin/Calculator-API/blob/main/src/Error.png)
